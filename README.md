@@ -14,3 +14,5 @@ funcs_interp.c	driver functions for the instructions
 str_reader.c	string rider and checker
 free.c	memory handling functions.
 char.c	handler functions for ascii instructions.
+
+#HolbertonSchool
